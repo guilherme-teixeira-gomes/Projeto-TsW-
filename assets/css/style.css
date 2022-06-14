@@ -1,0 +1,144 @@
+#logo {
+    height: 200px;
+    width: 500px;
+        }
+#cont {
+    background-color: rgb(0, 0, 0);
+        }
+
+.box1 {
+    width: 50px;
+    background-color: rgba(0, 0, 0, 0.582);
+    font-family: 'Righteous';
+    color: rgb(197, 184, 6);
+       }
+
+ .box2  {
+    width: 65px;
+    background-color: rgba(0, 0, 0, 0.822);
+    font-family: 'Righteous';
+    color: rgb(197, 184, 6);
+        }
+
+.nav-cor {
+    background-color: rgb(94, 94, 94);
+    height: 47px;
+    font-size:smaller;
+        }
+
+.conte {
+    background-color: rgb(94, 94, 94);
+        }
+
+.box .legenda {
+    color: #888;
+    margin-bottom: 3px;
+        }
+
+header {
+    background-color:#0c0c0c;
+        }
+        
+body    {
+    background-color:#FFFFFFBB;
+        }
+
+.container {
+   text-align: left;
+        }
+
+.box {  
+    align-items:right;
+        }
+
+.row  {
+    display: inline-block;
+        }
+
+.col-sm-11  {
+    display: inline-block;
+    height: 350px;
+    width: 600;
+        }
+
+#form1 {
+    height: 400px;
+    
+        }
+
+#origem {
+    align-items: flex-start;
+    width:415px;
+    border-radius: 5px;
+    height: 300px;
+        }       
+
+.opt-extra {
+    width: 220px;
+    position: relative;
+    top: 5px;
+    
+        }
+
+.col-sm-2 {
+    position: relative;
+    left: 440px;
+    bottom: 317px;
+        }
+
+#end {
+    position: relative;
+    left: 450px;
+    bottom: 350px;
+    width: 500px;
+    height: 350px;
+        }
+
+#destino { 
+    width:415px;
+    height: 300px;
+        }
+
+#sobre {
+   text-align: center;
+}
+
+.p1 {
+    max-width: 500px;
+    margin: auto;
+        }
+
+.p2 {
+    max-width: 500px;
+    margin: auto;
+
+        }
+    
+ 
+.p3 {
+    max-width: 500px;
+    margin: auto;
+  
+        }
+
+.p4 {
+    max-width: 500px;
+    margin: auto;
+   
+       }
+
+.sobref {
+    background-color: rgba(177, 177, 177, 0.582);
+        }
+
+.container-img {
+    text-align: center;
+        }        
+
+.img1   {
+    height: 40px;
+        }
+        
+.img2   {
+    height: 40px;
+        }           
